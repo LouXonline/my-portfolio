@@ -1,11 +1,11 @@
 name: Deploy Hugo site
 
-permissions:
-  contents: write
-
 on:
   push:
     branches: ["main"]
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -23,8 +23,9 @@ jobs:
       - name: Build
         run: hugo
 
-      - name: Deploy
+      - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          publish_branch: gh-pages
