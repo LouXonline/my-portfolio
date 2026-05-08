@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-profile.netlify.app/categories/</loc>
+    <loc>https://LouXonline.github.io/my-portfolio/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://hugo-profile.netlify.app/es/categories/"
+                href="https://LouXonline.github.io/my-portfolio/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-profile.netlify.app/fr/categories/"
+                href="https://LouXonline.github.io/my-portfolio/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hugo-profile.netlify.app/categories/"
+                href="https://LouXonline.github.io/my-portfolio/categories/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/</loc>
+    <loc>https://LouXonline.github.io/my-portfolio/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://hugo-profile.netlify.app/es/"
+                href="https://LouXonline.github.io/my-portfolio/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-profile.netlify.app/fr/"
+                href="https://LouXonline.github.io/my-portfolio/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hugo-profile.netlify.app/"
+                href="https://LouXonline.github.io/my-portfolio/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/</loc>
+    <loc>https://LouXonline.github.io/my-portfolio/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://hugo-profile.netlify.app/es/tags/"
+                href="https://LouXonline.github.io/my-portfolio/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-profile.netlify.app/fr/tags/"
+                href="https://LouXonline.github.io/my-portfolio/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hugo-profile.netlify.app/tags/"
+                href="https://LouXonline.github.io/my-portfolio/tags/"
                 />
   </url>
 </urlset>
