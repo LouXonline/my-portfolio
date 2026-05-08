@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-portfolio/fr/categories/</loc>
+    <loc>https://LouXonline.github.io/my-portfolio/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/my-portfolio/categories/"
+                href="https://LouXonline.github.io/my-portfolio/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/my-portfolio/es/categories/"
+                href="https://LouXonline.github.io/my-portfolio/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/my-portfolio/fr/categories/"
+                href="https://LouXonline.github.io/my-portfolio/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/my-portfolio/fr/</loc>
+    <loc>https://LouXonline.github.io/my-portfolio/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/my-portfolio/"
+                href="https://LouXonline.github.io/my-portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/my-portfolio/es/"
+                href="https://LouXonline.github.io/my-portfolio/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/my-portfolio/fr/"
+                href="https://LouXonline.github.io/my-portfolio/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/my-portfolio/fr/tags/</loc>
+    <loc>https://LouXonline.github.io/my-portfolio/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/my-portfolio/tags/"
+                href="https://LouXonline.github.io/my-portfolio/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/my-portfolio/es/tags/"
+                href="https://LouXonline.github.io/my-portfolio/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/my-portfolio/fr/tags/"
+                href="https://LouXonline.github.io/my-portfolio/fr/tags/"
                 />
   </url>
 </urlset>
